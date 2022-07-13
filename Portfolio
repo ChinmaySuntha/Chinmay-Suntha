@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Chinmay Suntha Resume</title>
+    <link href="style.css" rel="stylesheet" type="text/css" />
+  </head>
+  <body>
+    <section id="main">
+      <nav>
+        <a href="https://MyPortfolio.chinmaysuntha.repl.co" class="logo">
+          <img src="logo.png" alt="Logo of my portfolio">
+        </a>
+        <span class="menu-space"></span>
+
+        <ul class="menu">
+          <li><a href="https://chinmaysuntha.repl.co">Home</a></li>
+          <li><a href="https://www.linkedin.com/in/chinmay-suntha-09a178191/?originalSubdomain=in">LinkedIn</a></li>
+          <li><a href="https://www.instagram.com/chinmay__suntha/">Instagram</a></li>
+          <li><a href="https://www.facebook.com/chinmay.suntha.7/">Facebook</a></li>
+        </ul>
+        <label for class="hey">Say Hi! Contact Details:-</label>
+        <select name="hey" id="hey">
+        <option value=
+          "Address">Uma Sadan Pilikothi Road, Haldwani, 263139
+        </option>
+        <option value=
+          "E-Mail Id">chinmaysuntha@gmail.com
+        </option>
+        <option value=
+          "Contact">8178593979
+        </option>
+        </select>
+      </nav>
+    </section>
+    <div class="content">
+      <div class="image">
+       <img src="MYPICTURE.jpeg" alt="my Profile Picture">
+      </div>
+      <div class="main-text">
+        <h1>Hello, I Am Chinmay Suntha</h1>
+        <p>I am currenty studying my bachelors degree in Technology from DIT University, Dehradun in Computer Science with Specialisation in Cyber Security and Forensics (IBM) (2019-2023).</p>
+        <a href="https://drive.google.com/file/d/1HUO0QvJBMxOCgBZiU3iQeU0jMihK5eQx/view?usp=sharing" class="resume-btn">See My Resume</a>
+       </div>  
+    </div>
+  </body>
+</html>
